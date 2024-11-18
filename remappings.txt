@@ -1,0 +1,3 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@nitroprover/=lib/NitroProver/src/
+@solidity-cbor/=lib/NitroProver/lib/solidity-cbor/packages/solidity-cbor/contracts/
